@@ -89,7 +89,7 @@ ToDoList/
     </td>
   </tr>
 </table>
----
+
 
 ## Installation
 
@@ -152,6 +152,7 @@ This project demonstrates:
 **Sakshi Gupta**
 
 GitHub: https://github.com/sakshigupta1410
+
 ---
 
 ## License
